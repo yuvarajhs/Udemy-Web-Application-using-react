@@ -51,7 +51,7 @@ function Footer() {
 
       
       <p> <img src="https://frontends.udemycdn.com/frontends-homepage/staticx/udemy/images/v7/logo-udemy.svg" alt="" /> 
-          <span id='last'>© 2024 Udemy, Inc.</span>
+          <span id='last'>© 2024 Yuvaraj H S.<span><br/>8296181649<span></span>
       </p>
     </div>
   )
