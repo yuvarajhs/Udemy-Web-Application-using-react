@@ -52,8 +52,12 @@ function Footer() {
 
       
       <p> <img src="https://frontends.udemycdn.com/frontends-homepage/staticx/udemy/images/v7/logo-udemy.svg" alt="" /> 
+<<<<<<< HEAD
           <span id='last'>© 2024 Yuvaraj H S . <span><br /></span> 8296181649</span>
           
+=======
+          <span id='last'>© 2024 Yuvaraj H S .<span><br/>8296181649<span></span>
+>>>>>>> 6cce6bbc4fd921084197a36d1c54c2cd8b0cb29c
       </p>
     </div>
   )
