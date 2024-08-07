@@ -14,6 +14,7 @@ function Footer() {
         </div>
 
         <div className="footer-div2">
+          
           <div className='footer-div2-container'>
             <div className="footer-div2-boxes">
               <li>Udemy Business</li>
@@ -51,7 +52,8 @@ function Footer() {
 
       
       <p> <img src="https://frontends.udemycdn.com/frontends-homepage/staticx/udemy/images/v7/logo-udemy.svg" alt="" /> 
-          <span id='last'>© 2024 Udemy, Inc.</span>
+          <span id='last'>© 2024 Yuvaraj H S . <span><br /></span> 8296181649</span>
+          
       </p>
     </div>
   )
